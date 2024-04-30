@@ -1,4 +1,4 @@
-# Loporrit-Bot
+# Loporrit Bot
 Discord bot focused on Final Fantasy XIV.
 FFXIV-focused functionalities include:
 - FFLog Character Search
